@@ -55,8 +55,8 @@ public class Lesson5_1 {
         System.out.println(woman1.toString());
         System.out.println(woman2.toString());
 
-        Cat.Catt catt1 = new Cat.Catt("Tom", "Ford", 10);
-        Cat.Catt catt2 = new Cat.Catt("Alise", "Ford", 8);
+        L4_Cat.Catt catt1 = new L4_Cat.Catt("Tom", "Ford", 10);
+        L4_Cat.Catt catt2 = new L4_Cat.Catt("Alise", "Ford", 8);
         Dog.Dogg dogg1 = new Dog.Dogg("Max", "Toyota", 9);
         Dog.Dogg dogg2 = new Dog.Dogg("Rocky", "Toyota", 2);
 

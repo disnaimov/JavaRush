@@ -1,3 +1,4 @@
+package lesson45;
 public class Circle {
     private int centerX;
     private int centerY;

@@ -1,4 +1,4 @@
-
+package lesson45;
 
 public class Solution {
     public static class Man{

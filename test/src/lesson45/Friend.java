@@ -1,3 +1,4 @@
+package lesson45;
 public class Friend {
     private String name;
     private int age;

@@ -1,3 +1,4 @@
+package lesson45;
 public class Rectangle {
     private int top;
     private int left;
