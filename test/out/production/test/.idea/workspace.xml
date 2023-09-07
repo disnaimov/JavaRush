@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="770e4e22-4b31-4523-b84b-bdb8ab3060fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/labs_rsch-lab2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/labs_rsch-lab2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/rsch_labs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/rsch_labs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев/labs_rsch-lab2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7sem/рсч_киселев/labs_rsch-lab2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo/demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/ExpensesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/config/MapperConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/controllers/CategoryRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/controllers/UserRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/dao/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/dao/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/dto/CategoryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/dto/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/entities/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/handlers/ContentNotFoundExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/java/com/example/expenses/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/resources/db/migrations/V0_0_0_0__create_user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/main/resources/db/migrations/V0_0_0_1__create_category.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/src/test/java/com/example/expenses/ExpensesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/src/main/java/com/example/people/PeopleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../people/people/src/test/java/com/example/people/PeopleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/first-page.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/login.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/main.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/registration.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/out/production/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/out/production/test/MinecraftMobs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/out/production/test/World.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/src/MinecraftMobs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/src/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/todo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/oba/pro-spring-boot-2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/for_git.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/iphone_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/iphone_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/iphone_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/nokia_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/ps_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/ps_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/photo/ps_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/main/java/com/apress/todo/todoclient/ToDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/main/java/com/apress/todo/todoclient/ToDoErrorHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/main/java/com/apress/todo/todoclient/ToDoRestClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/main/java/com/apress/todo/todoclient/ToDoRestClientProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/main/java/com/apress/todo/todoclient/TodoClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-client/todo-client/src/test/java/com/apress/todo/todoclient/TodoClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/bilders/ToDoBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/bilders/ToDoValidationBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/com/apress/todo/todoinmemory/TodoInMemoryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/controllers/ToDoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/entities/ToDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/erors/ToDoValidationError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/repositories/CommonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/java/repositories/ToDoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-in-memory/todo-in-memory/src/test/java/com/apress/todo/todoinmemory/TodoInMemoryApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/CommonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/ToDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/ToDoBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/ToDoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/ToDoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/ToDoValidationError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/ToDoValidationErrorBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/java/com/apress/todo/TodoJdbcApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/todo-jdbc/src/test/java/com/apress/todo/TodoJdbcApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/WebaplApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/controllers/ImageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/controllers/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/models/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/models/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/repositories/ImageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/repositories/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/java/com/example/webapl/services/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/resources/templates/product-info.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/main/resources/templates/products.ftlh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/spring/webapl/src/test/java/com/example/webapl/WebaplApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2SPxmITWa4IyBZNGH6aUkp5dBDQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="770e4e22-4b31-4523-b84b-bdb8ab3060fe" name="Changes" comment="" />
+      <created>1689062179553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689062179553</updated>
+      <workItem from="1689062181686" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
