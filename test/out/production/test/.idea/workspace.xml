@@ -1,10 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="770e4e22-4b31-4523-b84b-bdb8ab3060fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/labs_rsch-lab2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/labs_rsch-lab2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/rsch_labs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/rsch_labs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев/labs_rsch-lab2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7sem/рсч_киселев/labs_rsch-lab2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/бжд/Lab_1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/бжд/лр1_бжд.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/Киселев_ЛР1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/Киселев_лр2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/Киселев_лр3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/Киселев_лр4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/Киселев_лр5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/лр2_теория.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/лр3_теория.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/лр4_теория.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/лр5_теория.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/юнит_тесты.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/8 семак/тесты/юнит_тесты.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/upp6_roadmap.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/Киселев_АИС_ИВТ-93.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/Киселев_УПП_ИВТ-93.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/Киселев_Упп_6лр.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/Киселев_тяп_кр.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/Киселев_тяп_кр.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/TPLKR.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/language/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/language/separators.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/lexical/Lex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/lexical/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/lexical/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/lexical/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/program.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/semantic/Expression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/semantic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/semantic/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/OperationsHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/Ramification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/syntactic/SuccessBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/util/FileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/util/NamesUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/out/production/TPLKR/main/util/TypesUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/language/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/language/separators.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/lexical/Lex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/lexical/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/lexical/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/lexical/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/program.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/semantic/Expression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/semantic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/semantic/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/OperationsHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/Ramification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/syntactic/SuccessBlock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/util/FileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/util/NamesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/TPLKR/src/main/util/TypesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/Диаграмма_лексический_Киселев.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/здесь все/синтаксический.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/TPLKR.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/language/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/language/separators.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/lexical/Lex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/lexical/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/lexical/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/lexical/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/program.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/Block.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/OperationsHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/Process.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/Ramification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/syntactic/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/util/FileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/util/NamesUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/out/production/TPLKR/main/util/TypesUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/language/keywords.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/language/separators.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/lexical/Lex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/lexical/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/lexical/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/lexical/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/program.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/OperationsHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/Process.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/Ramification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/syntactic/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/util/FileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/util/NamesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/курсач_баха/лексический Киселёв/src/main/util/TypesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/.idea/рсч_киселев-4ЛР.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-4ЛР/labs_rsch-lab2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/.idea/рсч_киселев-4ЛР.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев-5ЛР/rsch_labs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7sem/рсч_киселев/labs_rsch-lab2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../demo/demo" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../expenses/expenses/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
@@ -42,6 +160,165 @@
       <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/login.mustache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/main.mustache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../sweater-SpringSecurity/sweater-SpringSecurity/src/main/resources/templates/registration.mustache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Cat$Catt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/ConsoleReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Dog$Dogg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson4_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson6_1$Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson6_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Lesson6_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/NewCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Solution$Idea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Solution$Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Solution$Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/StringHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/out/production/test/SummationCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/ConsoleReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Lesson4_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Lesson4_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Lesson5_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Lesson5_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Lesson6_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Lesson6_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/NewCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/StringHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/src/SummationCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/Lesson6/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Game/Heroes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Game/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Game/Warrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Game/Wizard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_ArrayList/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_ArrayList/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_ArrayList/Class3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_ArrayList/Class4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_ArrayList/Class5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_arrays/Lesson7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_arrays/Lesson7_z2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_arrays/Lesson7_z3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_arrays/Lesson7_z4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_arrays/Lesson7_z5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Class3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Class4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Class5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Class6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_dopquests/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_last_breath/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_last_breath/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lesson7_last_breath/Class3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lists/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lists/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lists/Class3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lists/Class4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/out/production/test/Lists/Class5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Game/Heroes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Game/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Game/Warrior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Game/Wizard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_ArrayList/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_ArrayList/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_ArrayList/Class3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_ArrayList/Class4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_ArrayList/Class5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_arrays/Lesson7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_arrays/Lesson7_z2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_arrays/Lesson7_z3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_arrays/Lesson7_z4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_arrays/Lesson7_z5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Class3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Class4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Class5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Class6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_dopquests/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_last_breath/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_last_breath/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lesson7_last_breath/Class3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lists/Class1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lists/Class2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lists/Class3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lists/Class4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/src/Lists/Class5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lesson7/JavaRush_lesson7/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Cat$Catt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Dog$Dogg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Friend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Lesson4_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Lesson4_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Lesson5_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Lesson5_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Solution$Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Solution$Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/out/production/test/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Lesson4_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Lesson4_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Lesson5_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Lesson5_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/lessons 4-5/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/out/production/test/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/out/production/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/out/production/test/ManyFunctions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/src/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/src/ManyFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z2/z2/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/out/production/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/out/production/test/Rainbow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z3/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z4_scanner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z4_scanner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z4_scanner/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z4_scanner/out/production/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z4_scanner/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../way2java/java_rush/z4_scanner/test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../way2java/minecraft/.idea/modules.xml" beforeDir="false" />
@@ -132,21 +409,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SPxmITWa4IyBZNGH6aUkp5dBDQ" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -156,6 +447,9 @@
       <option name="presentableId" value="Default" />
       <updated>1689062179553</updated>
       <workItem from="1689062181686" duration="32000" />
+      <workItem from="1694073432174" duration="5733000" />
+      <workItem from="1694093529217" duration="3111000" />
+      <workItem from="1694158390787" duration="2044000" />
     </task>
     <servers />
   </component>
