@@ -1,6 +1,7 @@
 package lesson11_dop;
 
 import java.lang.reflect.Array;
+import java.util.Arrays;
 
 /*
 3. Задача по алгоритмам.
@@ -11,12 +12,10 @@ import java.lang.reflect.Array;
 public class Class1 {
     public static void main(String[] args) {
         int[] array = new int[10];
-        int j = 1;
         int max = 0, min = 0;
 
         for (int i = 0; i < array.length; i++) {
-            array[i] = j;
-            j++;
+            array[i] = i + 1;
         }
 
         for (int i = 0; i < array.length; i++){
@@ -28,9 +27,7 @@ public class Class1 {
             }
         }
 
-        for (int i = 0; i < array.length; i++){
-            System.out.println(i);
-        }
+        System.out.println(Arrays.toString(array));
         System.out.println("\n");
 
         System.out.println("max is = " + max);
