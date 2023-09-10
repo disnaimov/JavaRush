@@ -1,4 +1,4 @@
-package Lesson7_dopquests;
+package lesson7.Lesson7_dopquests;
 /*
 6. Семья
 
@@ -16,18 +16,18 @@ package Lesson7_dopquests;
 public class Class6 {
 
     public static void main(String[] args) {
-        Human grandPa1 = new Human("дед Василий", true, 80);
-        Human grandPa2 = new Human("дед Иван", true, 75);
+        Lesson7_dopquests.Human grandPa1 = new Lesson7_dopquests.Human("дед Василий", true, 80);
+        Lesson7_dopquests.Human grandPa2 = new Lesson7_dopquests.Human("дед Иван", true, 75);
 
-        Human grandMa1 = new Human("баба Параша", false, 73);
-        Human grandMa2 = new Human("баба Настя", false, 64);
+        Lesson7_dopquests.Human grandMa1 = new Lesson7_dopquests.Human("баба Параша", false, 73);
+        Lesson7_dopquests.Human grandMa2 = new Lesson7_dopquests.Human("баба Настя", false, 64);
 
-        Human father = new Human("папа Илья", true, 40, grandPa1, grandMa1);
-        Human mother = new Human("мама Алёна", false, 35, grandPa2, grandMa2);
+        Lesson7_dopquests.Human father = new Lesson7_dopquests.Human("папа Илья", true, 40, grandPa1, grandMa1);
+        Lesson7_dopquests.Human mother = new Lesson7_dopquests.Human("мама Алёна", false, 35, grandPa2, grandMa2);
 
-        Human daughter = new Human("Дина", false, 20, father, mother);
-        Human oldSon = new Human("Дима", true, 15, father, mother);
-        Human juniorSon = new Human("Денис", true, 10, father, mother);
+        Lesson7_dopquests.Human daughter = new Lesson7_dopquests.Human("Дина", false, 20, father, mother);
+        Lesson7_dopquests.Human oldSon = new Lesson7_dopquests.Human("Дима", true, 15, father, mother);
+        Lesson7_dopquests.Human juniorSon = new Lesson7_dopquests.Human("Денис", true, 10, father, mother);
 
         System.out.println(grandPa1.toString());
         System.out.println(grandPa2.toString());
