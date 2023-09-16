@@ -2,6 +2,7 @@ package lesson14_dop;
 
 import java.util.Objects;
 import java.util.Scanner;
+
 /*
 1. Ввести [в цикле] с клавиатуры несколько строк (ключей).
 Строки(ключи) могут быть такими: "user", "looser",
@@ -25,40 +26,68 @@ import java.util.Scanner;
  */
 public class Class1 {
 
-    static class User{
-        void live(){
+    static class User {
+        void live() {
             System.out.println("I'm user, and i'm live");
         }
     }
 
-    static class Looser{
-        void doNothing(){
+    static class Looser {
+        void doNothing() {
             System.out.println("I'm looser, and i do nothing");
         }
     }
 
-    static class Coder{
-        void coding(){
+    static class Coder {
+        void coding() {
             System.out.println("I'm coder, and i'm code");
         }
     }
 
-    static class Proger{
-        void enjoy(){
+    static class Proger {
+        void enjoy() {
             System.out.println("I'm proger, and i'm enjoy");
+        }
+    }
+
+    static void method(String s) {
+        if (Objects.equals(s, "user")) {
+            User person = new User();
+            System.out.println(person);
+            person.live();
+        } else if (Objects.equals(s, "looser")) {
+            Looser person = new Looser();
+            System.out.println(person);
+            person.doNothing();
+        } else if (Objects.equals(s, "coder")) {
+            Coder coder = new Coder();
+            System.out.println(coder);
+            coder.coding();
+        } else if (Objects.equals(s, "proger")) {
+            Proger proger = new Proger();
+            System.out.println(proger);
+            proger.enjoy();
         }
     }
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input string");
-        String s = scanner.nextLine();
 
-        while (!(Objects.equals(s, "user"))
-        || !(Objects.equals(s, "looser"))
-        || !(Objects.equals(s, "coder"))
-        || !(Objects.equals(s, "proger"))){
 
+        while (true) {
+            String s = scanner.nextLine();
+            if ((Objects.equals(s, "user"))
+                    || (Objects.equals(s, "looser"))
+                    || (Objects.equals(s, "coder"))
+                    || (Objects.equals(s, "proger"))) {
+
+                method(s);
+
+            } else {
+                scanner.close();
+                break;
+            }
         }
     }
 }
