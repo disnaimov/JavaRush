@@ -13,8 +13,8 @@ public abstract class Book {
 
 
     public String getOutputByAuthor() {
-        String agataCristiOutput = "AK";
-        String markTwainOutput = "MT";
+        String agataCristiOutput = "AKO";
+        String markTwainOutput = "MTO";
 
         if (this instanceof MarkTwainBook) {
             return markTwainOutput;
@@ -58,7 +58,15 @@ public abstract class Book {
     }
 
     public static void main(String[] args) {
+        Book book = new AgataCristiBook("AK book");
+        Book book1 = new MarkTwainBook("MT book");
+        System.out.println(book.getBook());
+        System.out.println(book.getName());
+        System.out.println(book.getOutputByAuthor());
 
+        System.out.println(book1.getBook());
+        System.out.println(book1.getName());
+        System.out.println(book1.getOutputByAuthor());
     }
 }
 
