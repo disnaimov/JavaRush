@@ -13,8 +13,7 @@ import java.util.Map;
  */
 
 public class Class4 {
-    public static HashMap<String, Date> createMap()
-    {
+    public static HashMap<String, Date> createMap() {
         HashMap<String, Date> map = new HashMap<String, Date>();
         map.put("Сталлоне", new Date("JUNE 1 1980"));
 
@@ -32,7 +31,6 @@ public class Class4 {
     }
 
     public static void removeAllSummerPeople(HashMap<String, Date> map) {
-        //Напишите тут ваш код
         Iterator<Map.Entry<String, Date>> iterator = map.entrySet().iterator();
 
         while (iterator.hasNext()) {
@@ -48,8 +46,7 @@ public class Class4 {
         HashMap<String, Date> map = createMap();
         removeAllSummerPeople(map);
 
-        for(Map.Entry<String, Date> pair : map.entrySet())
-        {
+        for (Map.Entry<String, Date> pair : map.entrySet()) {
             System.out.println(pair.getValue());
         }
     }
