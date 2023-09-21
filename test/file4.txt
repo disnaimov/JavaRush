@@ -1,0 +1,2 @@
+http://javarush.ru/alpha/index.html?lvl=15&view&name=Amigo
+http://javarush.ru/alpha/index.html?obj=3.14&name=Amigo

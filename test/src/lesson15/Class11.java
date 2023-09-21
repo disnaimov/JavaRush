@@ -1,4 +1,7 @@
 package lesson15;
+
+import lesson15_dop.Class5;
+
 /*
 Внутри статического блока:
 1. Создайте класс Cat
