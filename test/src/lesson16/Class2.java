@@ -5,7 +5,7 @@ package lesson16;
 нить с помощью интерфейса Runnable.
 TestThread должен выводить в консоль "My first thread".
  */
-public class Class2 implements Runnable {
+public class Class2 {
 
     public static class TestThread extends Thread{
         static {
@@ -14,16 +14,9 @@ public class Class2 implements Runnable {
     }
 
 
-    @Override
-    public void run() {
-        System.out.println("My first thread");
-    }
-
-    static {
-        Class2 class2 = new Class2();
-        class2.run();
-    }
 
     public static void main(String[] args) {
+        TestThread thread = new TestThread();
+        thread.start();
     }
 }
