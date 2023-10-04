@@ -22,12 +22,14 @@ public class Class6 {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         Thread thread = new Thread(new printStr());
         Thread thread1 = new Thread(new printStr2());
 
         thread.start();
+        thread.join();
         thread1.start();
+
     }
 
 }
