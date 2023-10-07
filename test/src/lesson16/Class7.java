@@ -2,10 +2,17 @@ package lesson16;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/*
+Разберись, что делает программа.
+Реализуй метод calculateHorsesFinished. Он должен:
+1. Посчитать количество финишировавших лошадей и возвратить его. Используй метод isFinished().
+2. Если лошадь еще не пришла к финишу (!isFinished()), то:
+2.1. Вывести в консоль "Waiting for " + horse.getName().
+2.2. Подождать, пока она завершит гонку. Подумай, какой метод нужно использовать для этого.
+ */
 public class Class7 {
 
-    static class Horse{
+    static class Horse implements Runnable{
         private boolean isFinished;
 
         private String name;
@@ -47,27 +54,34 @@ public class Class7 {
             }
             return count;
         }
+
+        @Override
+        public void run() {
+            Horse horse = new Horse("Patrick", true);
+            Horse horse1 = new Horse("Baiman", false);
+            Horse horse2 = new Horse("Rayan", true);
+            Horse horse3 = new Horse("Gosling", false);
+
+            List<Horse> horses = new ArrayList<>();
+            horses.add(horse);
+            horses.add(horse1);
+            horses.add(horse2);
+            horses.add(horse3);
+
+            int num = 0;
+
+            for (Horse h : horses) {
+                num+= Horse.calculateFinished(h);
+            }
+
+            System.out.println("\n");
+            System.out.println("number of finishing horses " + num);
+        }
     }
 
     public static void main(String[] args) {
-        Horse horse = new Horse("Patrick", true);
-        Horse horse1 = new Horse("Baiman", false);
-        Horse horse2 = new Horse("Rayan", true);
-        Horse horse3 = new Horse("Gosling", false);
+        Horse horse = new Horse("1", true);
+        horse.run();
 
-        List<Horse> horses = new ArrayList<>();
-        horses.add(horse);
-        horses.add(horse1);
-        horses.add(horse2);
-        horses.add(horse3);
-
-        int num = 0;
-
-        for (Horse h : horses) {
-            num+= Horse.calculateFinished(h);
-        }
-
-        System.out.println("\n");
-        System.out.println("number of finishing horses " + num);
     }
 }
