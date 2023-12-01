@@ -4,7 +4,12 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Random;
+import java.util.Set;
 
 /*
 1. Разберитесь, что делает программа.
@@ -31,6 +36,12 @@ public class Class10 {
         public Cat(String name, Cat parrent){
             this.name = name;
             this.parrent = parrent;
+        }
+
+        public Cat(String name, Cat parrent, boolean inBucket){
+            this.name = name;
+            this.parrent = parrent;
+            this.inBucket = inBucket;
         }
 
         public void setInBucket(boolean inBucket){
@@ -62,7 +73,7 @@ public class Class10 {
             List<Cat> cats = new ArrayList<>();
             
             for (int i = 0; i < num; i++) {
-                cats.add(new Cat("kitty" + Integer.toString(i), parrent));
+                cats.add(new Cat("kitty" + Integer.toString(i), parrent, true));
             }
 
             return cats;
@@ -72,7 +83,35 @@ public class Class10 {
             for (Cat cat : cats) {
                 cat.setInBucket(true);
             }
-        }        
+        }
+        
+        public static void randomCatLeavingBaket(List<Cat> cats, List<Integer> catsIndexes){
+            
+         for (Cat cat : cats) {
+            cats.get(catsIndexes.get(cats.indexOf(cat))).setInBucket(false);
+            try {
+            Thread.sleep(1000);
+            System.out.println("cat sleep before leaving");
+            } catch (InterruptedException e){
+                e.printStackTrace();
+            }
+            System.out.println("Cats in bucket variable now have state " + cats.get(catsIndexes.get(cats.indexOf(cat))).getInBucket());
+         }  
+
+        }
+
+        public void motherPutKidsInBucket(List<Cat> cats, List<Integer> catsIndexes){
+            for (Cat cat : cats) {
+              cats.get(catsIndexes.get(cats.indexOf(cat))).setInBucket(true);
+              try {
+                Thread.sleep(1000);
+                System.out.println("Mother put kitties in bucket, it takes time");
+              }  catch (InterruptedException e) {
+                e.printStackTrace();
+              }
+              System.out.println("Cats in bucket variable now have state " + cats.get(catsIndexes.get(cats.indexOf(cat))).inBucket);
+            }
+        }
     }
 
 
@@ -86,18 +125,27 @@ public class Class10 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         try {
-        int num = Integer.parseInt(br.readLine());
-         List<Cat> cats = mother.create(mother, num);
+        int kittyNumber = Integer.parseInt(br.readLine());
+         List<Cat> cats = mother.create(mother, kittyNumber);
 
-         for (Cat cat : cats) {
-            System.out.println(cat);
+        List<Integer> catsIndexes = new ArrayList<>();
+        for (Cat cat : cats) {
+            catsIndexes.add(cats.indexOf(cat));
+        }
+
+        Collections.shuffle(catsIndexes);
+
+         for (Integer integer : catsIndexes) {
+            System.out.println(integer);
          }
 
-        Cat.putCatsInBucket(cats);
+        Cat.randomCatLeavingBaket(cats, catsIndexes);
 
-         for (Cat cat : cats) {
-            System.out.println(cat.getInBucket());
-         }
+        System.out.println("\n");
+
+        mother.motherPutKidsInBucket(cats, catsIndexes);
+
+         
         br.close();
         } catch (IOException e){
             e.printStackTrace();
