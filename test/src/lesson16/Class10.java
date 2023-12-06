@@ -114,19 +114,20 @@ public class Class10 {
         }
     }
 
+    public class CatProcess implements Runnable {
 
-    public static void main(String[] args) {
-        Cat mother = new Cat();
-        mother.setName("CatMother");
-        mother.setParrent(null);
-        mother.setInBucket(false);
-       
 
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        
+        
+        @Override
+        public void run() {
+            // TODO Auto-generated method stub
+            Cat motherCat = new Cat("CatMother1", null, false);
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         try {
         int kittyNumber = Integer.parseInt(br.readLine());
-         List<Cat> cats = mother.create(mother, kittyNumber);
+         List<Cat> cats = motherCat.create(motherCat, kittyNumber);
 
         List<Integer> catsIndexes = new ArrayList<>();
         for (Cat cat : cats) {
@@ -143,15 +144,26 @@ public class Class10 {
 
         System.out.println("\n");
 
-        mother.motherPutKidsInBucket(cats, catsIndexes);
+        motherCat.motherPutKidsInBucket(cats, catsIndexes);
 
          
         br.close();
         } catch (IOException e){
             e.printStackTrace();
         }
-
-        // корзина, перенос в корзину
-        // toString
+        }
+    
+        
     }
+
+
+    public static void main(String[] args) {
+        Thread thread = new Thread(new CatProcess());
+        thread.start();
+       
+
+        
+    }
+
+    // добавить многопоточность и вторую кошку 
 }
