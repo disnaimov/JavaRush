@@ -25,7 +25,8 @@ public class Class11 {
                 System.out.println("Tik");
                 Thread.sleep(500);
                 System.out.println("Tak");
-                } else if (! str.isEmpty()){
+                
+                } else if (!str.isEmpty()){
                     break;
                 }
                 
